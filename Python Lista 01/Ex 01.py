@@ -1,3 +1,3 @@
 #Faça um Programa que mostre a mensagem "Alo mundo" na tela.
 
-print('Hello, world!')
+print('Alô mundo!')
